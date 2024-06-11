@@ -1,0 +1,1 @@
+DOM Calculator is designed using HTML CSS And JavaScript. The UI of calculator is designed dynamicaly using DOM and styles were applied using CSS. Basic Mathamatical oprations can be performed in this.
